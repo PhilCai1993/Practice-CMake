@@ -1,0 +1,6 @@
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo4/CMakeFiles/rebuild_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo4/CMakeFiles/edit_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo4/CMakeFiles/DEMO.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo4/math/CMakeFiles/rebuild_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo4/math/CMakeFiles/edit_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo4/math/CMakeFiles/MathFunctions.dir
