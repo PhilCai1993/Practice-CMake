@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo2/MyFunctions.cc
+
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo2/MyFunctions.h
+
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo2/main.cc
+stdio.h
+-
+stdlib.h
+-
+MyFunctions.h
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo2/MyFunctions.h
+
