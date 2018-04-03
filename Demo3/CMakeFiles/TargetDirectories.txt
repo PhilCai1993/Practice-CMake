@@ -1,0 +1,6 @@
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo3/CMakeFiles/rebuild_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo3/CMakeFiles/edit_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo3/CMakeFiles/Demo.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo3/Functions/CMakeFiles/rebuild_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo3/Functions/CMakeFiles/edit_cache.dir
+/Users/Phil/Desktop/iOSLab/Practice-CMake/Demo3/Functions/CMakeFiles/Functions.dir
